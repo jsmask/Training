@@ -1,2 +1,2 @@
-# Training
-Some personal training
+# 训练
+一些个人早期的代码训练题
